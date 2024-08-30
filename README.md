@@ -27,9 +27,8 @@
 </p>
 
 - 🔭 I’m currently working for [Pix Associates](https://www.pix-associates.com)
-- 📝 I sometimes write tech articles on
-[https://www.pix-associates.com/blog](https://www.pix-associates.com/blog) - 📫
-Reach me at **manonsmnn@gmail.com**
+- 📝 I sometimes write tech articles on [https://www.pix-associates.com/blog](https://www.pix-associates.com/blog)
+- 📫 Reach me at **manonsmnn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
